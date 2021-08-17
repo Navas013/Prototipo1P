@@ -1,0 +1,6 @@
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kikhe\source\repos\Parcial1\CapaModelo\obj\Debug\CapaModelo.pdb

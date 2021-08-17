@@ -1,0 +1,6 @@
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kikhe\source\repos\Parcial1\CapaVista\obj\Debug\CapaVista.pdb
